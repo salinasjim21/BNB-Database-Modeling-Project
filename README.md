@@ -1,13 +1,13 @@
-# 🏨 BNB Database Modeling Project
+# BNB Database Modeling Project
 
-## 📌 Overview
+## Overview
 Designed and implemented a normalized relational database for **The Lakeside Haven**, a bed-and-breakfast reservation system.
 
 This project replaces manual and fragmented data management with a structured Oracle SQL database that supports guest tracking, reservations, payments, and membership programs.
 
 ---
 
-## 🚨 Problem
+## Problem
 The business struggled with:
 - Disorganized guest and reservation data
 - Limited payment options
@@ -16,7 +16,7 @@ The business struggled with:
 
 ---
 
-## 💡 Solution
+## Solution
 Built a centralized database system with:
 - Guests, Hosts, Listings, Reservations, Payments
 - Membership tiers and guest history tracking
@@ -25,7 +25,7 @@ Built a centralized database system with:
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 - Oracle Database 11g
 - SQL (DDL & DML)
 - Oracle SQL Developer Data Modeler
@@ -33,7 +33,7 @@ Built a centralized database system with:
 
 ---
 
-## 🔑 Key Features
+## Key Features
 
 ### Database Design
 - 3rd Normal Form (3NF)
@@ -49,7 +49,7 @@ Built a centralized database system with:
 
 ---
 
-## 🗺️ Database Diagrams
+## Database Diagrams
 
 ### Logical Model
 ![Logical Model](Img/logical.pdf)
@@ -59,7 +59,7 @@ Built a centralized database system with:
 
 ---
 
-## 📊 Sample Data
+## Sample Data
 
 ### Guests
 ![Guests](Img/GUESTS.png)
@@ -72,7 +72,7 @@ Built a centralized database system with:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Run:
    - `create_tables.sql`
@@ -86,7 +86,7 @@ Built a centralized database system with:
 
 ---
 
-## 💼 Skills Demonstrated
+## Skills Demonstrated
 - Database Design & Normalization
 - SQL Development (DDL/DML)
 - Data Modeling (ERD → Relational Schema)
@@ -95,5 +95,5 @@ Built a centralized database system with:
 
 ---
 
-## 📄 License
+## License
 Academic use
